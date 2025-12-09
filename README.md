@@ -18,11 +18,11 @@ move boudnary and repeat
 - esentially i will be showing the user the entire process
 ### Algorithm Design: How will input → processing → output flow to and from the user? Including the use of the graphical user interface (GUI).
 - user selects the list size using the slider
-- user clicks generate list to start the algorithim 
- -  goes into generate(n) which does:
- - random_list(n) generates a list to random integers
- - ction_sort(list) iterates through and stores every step as a list of dictionaries
- - outputs the initial state through the visualizer
+- user clicks generate list to start the algorithim
+  - goes into generate(n) which does:
+  - random_list(n) generates a list to random integers
+  - ction_sort(list) iterates through and stores every step as a list of dictionaries
+  - outputs the initial state through the visualizer
 - if user clicks next
   - goes into next_step(...) funciton
   - which will  output the next state
