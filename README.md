@@ -34,5 +34,5 @@ move boudnary and repeat
 
 - for the flowchart i made one for the input-processing-output flow, and abstracted the specific coding process.
   
-  
+ <img src="Untitled Diagram.drawio.png" width="600">
   
