@@ -2,7 +2,8 @@
 ## Screenshots of test
 <img src="Test-unsorted.png" width="300">
 <img src="test-sorted.png" width="300">
-<img test2-visualizer showcase.png" width="300">
+<img test2-visualizer showcase.png">
+
 ## Problem breakdown and computational thinking
 i choose selection sort, as i found the algorithim interesting and straightforward. which made visualizing it a bit easier.
 ### Decomposition: What smaller steps form your chosen algorithm?
