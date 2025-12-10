@@ -41,4 +41,11 @@ move boudnary and repeat
 - for the flowchart i made one for the input-processing-output flow, and abstracted the specific coding process.
 - assumed correct input/user decision for flowchart
    <img src="Untitled Diagram.drawio.png" width="600">
+
+## hugging face link
   
+https://huggingface.co/spaces/Big-quartz/CISC-121_Project/tree/main
+
+## Author and acknowledgment
+- Author: mathi pratharb
+- use of lvl 4 AI, Used AI assitance for Gradio UI and HTML code
